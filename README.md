@@ -10,6 +10,8 @@ whether a good backtest is real or luck.
 - **See a full example first (demo lab):** https://truetest.uk/lab/demo?utm_source=github&utm_medium=readme
 - **Sample paid report (PDF, labelled SAMPLE):** https://truetest.uk/sample-report?utm_source=github&utm_medium=readme
 - **Free luck bar calculator** (in the browser, nothing uploaded): https://truetest.uk/luck-bar?utm_source=github&utm_medium=readme
+- **Free demo page on Hugging Face:** https://huggingface.co/spaces/Desilver1234/test-your-ea-free
+- **Official MCP Registry:** `uk.truetest/ea-tester`
 
 ## Connect it to your assistant
 

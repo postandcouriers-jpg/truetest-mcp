@@ -3,8 +3,19 @@
   "name": "uk.truetest/ea-tester",
   "title": "EA Trade Tester by TrueTest",
   "description": "FREE first read, no sign-up: test an EA, trading bot, indicator or MT5 report for luck and costs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://truetest.uk/connector",
+  "repository": {
+    "url": "https://github.com/postandcouriers-jpg/truetest-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://truetest.uk/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
